@@ -1,0 +1,31 @@
+# config.py
+
+SUBMISSION_DATA_FIELDS = [
+    "author",
+    "author_flair_text",
+    "clicked",
+    "comments",
+    "created_utc",
+    "distinguished",
+    "edited",
+    "id",
+    "is_original_content",
+    "is_self",
+    "link_flair_template_id",
+    "link_flair_text",
+    "locked",
+    "name",
+    "num_comments",
+    "over_18",
+    "permalink",
+    "poll_data",
+    "saved",
+    "score",
+    "selftext",
+    "spoiler",
+    "stickied",
+    "subreddit",
+    "title",
+    "upvote_ratio",
+    "url"
+]
